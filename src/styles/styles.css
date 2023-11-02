@@ -1,0 +1,90 @@
+body {
+  background-color: white;
+}
+
+h1 {
+  font-size: 32;
+}
+
+.first-section {
+  font-family: "Poppins";
+}
+
+.first-section__div {
+  background-image: url("././assets/images/grass_1.png");
+  width: 100%;
+  height: 70vh;
+}
+
+.first-section__diva {
+  flex: 0 0 auto;
+  width: 5%;
+}
+
+.first-section__divb {
+  flex: 0 0 auto;
+  width: 15%;
+}
+
+.first-section__h1 {
+  color: white;
+  font-size: 96px;
+}
+
+.first-section h3, h6 {
+  color: white;
+}
+
+.btn-dark {
+  border-radius: 40px;
+  opacity: 70%;
+}
+
+.btn-light {
+  border-radius: 35px;
+  color: green;
+  width: 180px;
+  height: 70px;
+  top: 1610px;
+  left: 862px;
+}
+
+.second-section__h1 {
+  font-family: "Poppins";
+  color: #828282;
+  font-size: 76px;
+  font-weight: 800;
+}
+
+.second-section__column {
+  border-radius: 40px;
+}
+
+.fourth-section__h1 {
+  font-family: "Poppins";
+  color: #828282;
+  font-size: 76px;
+  font-weight: 800;
+}
+
+.fifth-section__div {
+  background-image: url("././assets/images/grass_1.png");
+  width: 100%;
+  height: 70vh;
+  display: grid;
+  justify-items: space-evenly;
+}
+
+.white-text {
+  color: white;
+}
+
+.end-btn {
+  border-color: green;
+  height: 50px;
+}
+
+.footer__div {
+  background-color: #324B29;
+  height: 10vh;
+}/*# sourceMappingURL=styles.css.map */
